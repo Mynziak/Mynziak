@@ -1,43 +1,21 @@
 <div>
   <h1 style="text-align: center;">Welcome to my Coding World, Nice People!</h1>
   <div style="float: left; width: 70%;">
+    <img src="https://github.com/Mynziak/Mynziak/blob/main/3rCC.gif" alt="" width="200" height="200" id="hp" style="float: left; margin: 0 15px 0 0;">
     <p>I'm Dmytro, 🇺🇦Ukrainian QA Engineer, and now I'm a citizen of Earth 🌍</p>
     <ul>
-      <li> ❤️ Passionate about Automation Testing.</li>
-      <li> 🛠️ Experienced in constructing advanced test environments.</li>
-      <li> 👨‍💻 Enthusiastic collaborator, eager to work with amazing people.</li>
-      <li> 📚 Committed to continuous self-education and staying current with evolving technologies.</li>
+      <li>❤️ Passionate about Automation Testing.</li>
+      <li>🛠️ Experienced in constructing advanced test environments.</li>
+      <li>👨‍💻 Enthusiastic collaborator, eager to work with amazing people.</li>
+      <li>📚 Committed to continuous self-education and staying current with evolving technologies.</li>
     </ul>
-  </div>
-  <div style="float: right; width: 30%;">
-    <img src="https://i.gifer.com/3rCC.gif" alt="GIF" style="max-width: 100%;">
   </div>
 </div>
 
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
-
-
-<br>
 <hr>
 
-
 <h2 style="text-align: center;">Technologies</h2>
+
 <div style="text-align: left;">
 
   <p><strong>Programming Languages:</strong></p>
@@ -76,18 +54,17 @@
   <img src="https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white" alt="JMeter Badge">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL Badge">
 
-<br>
 <hr>
-<br>
-
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynziak&layout=compact" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=Mynziak&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
 </div>
-
+                            
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/dmytro-mynziak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
+</div>
+                                        
