@@ -1,7 +1,7 @@
+# Welcome to my Coding World, Nice People!
 <div>
-  <h1 style="text-align: center;">Welcome to my Coding World, Nice People!</h1>
   <div style="float: left; width: 70%;">
-    <img src="https://github.com/Mynziak/Mynziak/blob/main/3rCC.gif" alt="" width="200" height="200" id="hp" style="float: left; margin: 0 15px 0 0;">
+    <img src="https://github.com/Mynziak/Mynziak/blob/main/3rCC.gif" alt="" width="200" height="200">
     <p>I'm Dmytro, 🇺🇦Ukrainian QA Engineer, and now I'm a citizen of Earth 🌍</p>
     <ul>
       <li>❤️ Passionate about Automation Testing.</li>
@@ -14,7 +14,7 @@
 
 <hr>
 
-<h2 style="text-align: center;">Technologies</h2>
+## Technologies
 
 <div style="text-align: left;">
 
@@ -57,14 +57,13 @@
 <hr>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynziak&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mynziak&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mynziak&layout=compact&theme=radical&langs_count=20" alt="Top Languages">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mynziak&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true" alt="GitHub Stats">
 </div>
                             
-<div style="text-align: center;">
+<div>
   <a href="https://www.linkedin.com/in/dmytro-mynziak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-</div>
 </div>
                                         
