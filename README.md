@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Webdriver.IO-6EDBFF?logo=webdriver.io&logoColor=white" alt="Webdriver.IO Badge">
   <img src="https://img.shields.io/badge/XCUITest-007ACC?logo=xcode&logoColor=white" alt="XCUITest Badge">
   <img src="https://img.shields.io/badge/XCTest-007ACC?logo=xcode&logoColor=white" alt="XCTest Badge">
+  <img src="https://img.shields.io/badge/Retrofit2-00BFFF?logo=retrofit&logoColor=white" alt="Retrofit2 Badge">
+
   <img src="https://img.shields.io/badge/TestNG-005C8E?logo=testng&logoColor=white" alt="TestNG Badge">
   <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white" alt="JUnit5 Badge">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest Badge">
